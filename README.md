@@ -1,5 +1,5 @@
 # Project 1
-### Roon blog clone
+### Roon blog clone development
 
 Wednesday class has decided on a design mockup to recreate for our next project. The goal was to pick a clean, simple layout with the intention of replicating it as closely as possible, building it to be responsive. We decided on a blog article design by Drew Wilson.
 
