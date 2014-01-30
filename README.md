@@ -1,5 +1,5 @@
 # Project 1
-### Roon blog clone development
+### Roon blog clone
 
 Wednesday class has decided on a design mockup to recreate for our next project. The goal was to pick a clean, simple layout with the intention of replicating it as closely as possible, building it to be responsive. We decided on a blog article design by Drew Wilson.
 
@@ -13,7 +13,8 @@ Ideally we'll only spend a couple weeks on this project, allowing time for a fin
 2. Build your project out.
 3. Push your project up to **your GitHub account**. All of your personal projects will live on repos of your personal account.
 4. If you notice any issues or would like to contribute to the project, create pull requests via GitHub.
-5. This is a process. Any feedback is welcome.
+5. To sync your fork to the original project (upstream): https://help.github.com/articles/syncing-a-fork
+6. This is a process. Any feedback is welcome.
 
 **Tips**
 
