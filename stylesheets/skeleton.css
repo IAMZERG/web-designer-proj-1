@@ -19,6 +19,7 @@
 		font-family: "Gibson", "Helvetica Nue", sans-serif;
 		font-size: 2.5em; /*40px*/
 		font-weight: bold;
+		padding-top: 0.5%;
 	}
 	
 	a {
@@ -65,17 +66,18 @@
 	.post_content {
 		font-size: 1em;
 		width: 55%;
-		line-height: 1.5em;
+		line-height: 2em;
+		margin-top: 2.7%;
 	}
 	
 	.grid_1 {
-		padding-left: 20.6%;
+		padding-left: 20.9%;
 	}
 	
 	.home_icon {
-		padding-right: 1%;
-		padding-top: 2%;
-		margin: 0.5%;
+		padding-right: 0.9%;
+		padding-top: 4.4%;
+		margin: 0.3%;
 	}
 
 
